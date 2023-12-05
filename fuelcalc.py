@@ -1,6 +1,6 @@
 # Get input from the user
 current_fuel_price = float(input("Enter current fuel price per liter in rupees: "))
-distance_traveled = float(input("Enter distance traveled in kilometers: "))
+distance_traveled = float(input("Enter dist traveled in kilometers: "))
 car_mileage = float(input("Enter car mileage in kilometers per liter: "))
 
 # Check for valid inputs
